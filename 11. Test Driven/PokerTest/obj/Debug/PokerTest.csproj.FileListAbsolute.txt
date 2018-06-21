@@ -1,0 +1,7 @@
+T:\HQC\PokerTest\bin\Debug\PokerTest.dll
+T:\HQC\PokerTest\bin\Debug\PokerTest.pdb
+T:\HQC\PokerTest\bin\Debug\Poker.exe
+T:\HQC\PokerTest\bin\Debug\Poker.pdb
+T:\HQC\PokerTest\obj\Debug\PokerTest.csprojResolveAssemblyReference.cache
+T:\HQC\PokerTest\obj\Debug\PokerTest.dll
+T:\HQC\PokerTest\obj\Debug\PokerTest.pdb
